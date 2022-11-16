@@ -1,5 +1,19 @@
-.App {
-  text-align: center;
+.app {
+  /* text-align: center; */
+}
+
+.progress-bar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5%;
+}
+
+.time-buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10%;
 }
 
 .App-logo {
